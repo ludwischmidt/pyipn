@@ -298,7 +298,7 @@ def correlate(
     arr_sigma2simple = np.zeros(n_max_1)
 
     n = 0
-    fRijMin = 1e4
+    fRijMin = 1e5
     i_min = 0
     n_min = 0
 
